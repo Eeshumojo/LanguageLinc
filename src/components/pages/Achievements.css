@@ -1,0 +1,32 @@
+.achievements {
+  background-image: url("/public/images/Poster_Template_page-0001.jpg");
+  background-position: center;
+  background-size: cover;
+  /*background-attachment: fixed;*/
+  background-repeat: no-repeat;
+  color: #000000;
+  font-size: 50px;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.wrapper-achievements {
+  margin-top: 30px;
+  width: 75%;
+}
+
+.heading {
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 30px;
+}
+
+.body {
+  color: rgb(230, 222, 222);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
